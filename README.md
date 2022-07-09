@@ -51,8 +51,4 @@ Run ```main.py``` file which is located in [py_code](https://github.com/Narender
 Update the working API link in the code file to check the accuracy.
 
 
-## Advisor and Team
-
-Advisor - Professor Dr. Othman Soufan
-
-Team Members - Madhusree Maddu, Akhil Balla, Narender Krishna Rapolu
+Narender Krishna Rapolu
